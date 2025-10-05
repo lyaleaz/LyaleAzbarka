@@ -33,11 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LyaliAzbarka&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=LyaliAzbarka&theme=default&hide_border=true" width="48%"/>
-</p>
 
 ---
 
@@ -49,9 +44,9 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/lyali-azbarka/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/></a>
-  <a href="mailto:lyaliazbaraga@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/></a>
-  <a href="https://github.com/LyaliAzbarka"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/lyaleazbarka/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/></a>
+  <a href="mailto:lyale.azbarka00@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/></a>
+  <a href="https://github.com/lyaleaz"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub"/></a>
 </p>
 
 ---
