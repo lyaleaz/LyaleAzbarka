@@ -1,7 +1,7 @@
 # LyaleAzbarka
 <h2 align="center">
   👋 Hi, I'm <span style="color:#007acc;">Lyale Azbarka</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" width="22" height="15">
+ 
 </h2>
 <h3 align="center">💻 Software Engineer | 🌐 Full Stack Developer </h3>
 
