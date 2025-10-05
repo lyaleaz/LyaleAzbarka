@@ -12,7 +12,7 @@
 - 🧠 Graduate of an intensive **Full Stack Web Development Bootcamp** (A-tech & Elevation).  
 - 🤝 Experienced in **web development, robotics, and automation systems**.  
 - 💡 Excellent problem-solving skills, high motivation, and a proactive attitude.  
-- 🌱 Currently expanding my skills in **AI, robotics, and industrial automation** at **Albeironi Association for Sciences and Languages**.  
+- 🌱 Currently expanding my skills in **AI, robotics, and industrial automation** at **Albeironi Association for Sciences and Languages && Algorithmics**.  
 
 ---
 
